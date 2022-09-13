@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM tomcat
 
 RUN rm /var/www/html/index.html
 
